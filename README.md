@@ -98,5 +98,5 @@ Introduce Service Mesh (Istio/Linkerd) for traffic management
 
 🧑‍💻 Author
 
-Naor Jonathan Moses — Aspiring DevOps Engineer
+Naor Jonathan Moses — Junior DevOps Engineer
 Focused on building scalable, automated, and cloud-native systems.
